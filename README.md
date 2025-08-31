@@ -1,2 +1,3 @@
 # basics_python
-basics of python language 
+This repository contains python realted bascis
+
